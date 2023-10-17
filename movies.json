@@ -1,0 +1,131 @@
+[
+  {
+    "title": "God's Own Country",
+    "review": {
+      "reviewNumber": "IMDb review: 7.6",
+      "reviewCount": "34K"
+    },
+    "releaseDate": 2017,
+    "discription": "Spring. Yorkshire. Young farmer Johnny Saxby numbs his daily frustrations with binge drinking and casual sex, until the arrival of a Romanian migrant worker for lambing season ignites an intense relationship that sets Johnny on a new path.",
+    "genres": ["Drama", "Romance"],
+    "director": "Francis Lee",
+    "mainActors": ["Josh O'Connor", "Alec Secareanu", "Gemma Jones"]
+  },
+
+  {
+    "title": "Looking: The Movie",
+    "review": {
+      "reviewNumber": "IMDb review: 7.5",
+      "reviewCount": "9.9K"
+    },
+    "releaseDate": 2016,
+    "discription": "Patrick returns to San Francisco in search of closure and resolution regarding his relationships with Richie and Kevin.",
+    "genres": ["Drama", "Comedy"],
+    "director": "Andrew Haigh",
+    "mainActors": ["Jonathan Groff", "Frankie J. Alvarez", "Russell Tovey"]
+  },
+
+  {
+    "title": "Freier Fall",
+    "review": {
+      "reviewNumber": "IMDb review: 7.5",
+      "reviewCount": "22K"
+    },
+    "releaseDate": 2013,
+    "discription": "A soon-to-be-father policeman falls for a gay fellow officer and his life starts falling apart.",
+    "genres": ["Drama", "Romance"],
+    "director": "Stephan Lacant",
+    "mainActors": ["Hanno Koffler", "Max Riemelt", "Katharina Schüttler"]
+  },
+
+  {
+    "title": "Shelter",
+    "review": {
+      "reviewNumber": "IMDb review: 7.6",
+      "reviewCount": "24K"
+    },
+    "releaseDate": 2007,
+    "discription": "When his college dreams are sidelined by family obligations, a young man finds comfort in surfing with his best friend's brother.",
+    "genres": ["Drama", "Romance", "Sport"],
+    "director": "Jonah Markowitz",
+    "mainActors": ["Trevor Wright", "Brad Rowe", "Tina Holmes"]
+  },
+
+  {
+    "title": "Weekend",
+    "review": {
+      "reviewNumber": "IMDb review: 7.6",
+      "reviewCount": "32K"
+    },
+    "releaseDate": 2011,
+    "discription": "After a drunken house party with his straight mates, Russell heads out to a gay club. Just before closing time he picks up Glen but what's expected to be just a one-night stand becomes something else, something special.",
+    "genres": ["Drama", "Romance"],
+    "director": "Andrew Haigh",
+    "mainActors": ["Tom Cullen", "Chris New"]
+  },
+
+  {
+    "title": "Brokeback Mountain",
+    "review": {
+      "reviewNumber": "IMDb review: 7.7",
+      "reviewCount": "373K"
+    },
+    "releaseDate": 2005,
+    "discription": "Ennis and Jack are two shepherds who develop a sexual and emotional relationship. Their relationship becomes complicated when both of them get married to their respective girlfriends.",
+    "genres": ["Drama", "Romance"],
+    "director": "Ang Lee",
+    "mainActors": ["Jake Gyllenhaal", " Heath Ledger", "Anne Hathaway"]
+  },
+
+  {
+    "title": "Getting Go, the Go Doc Project",
+    "review": {
+      "reviewNumber": "IMDb review: 6.9",
+      "reviewCount": "3K"
+    },
+    "releaseDate": 2013,
+    "discription": "A shy but smitten college boy pursues a NY go-go boy through the pretext of making a documentary film about him, with the guys knowing each other only as Doc and Go.",
+    "genres": ["Drama", "Romance"],
+    "director": "Cory Krueckeberg",
+    "mainActors": ["Tanner Cohen", "Matthew Camp"]
+  },
+
+  {
+    "title": "Burning Blue",
+    "review": {
+      "reviewNumber": "IMDb review: 6.2",
+      "reviewCount": "2.6K"
+    },
+    "releaseDate": 2013,
+    "discription": "Two Navy fighter pilots find themselves in the midst of a forbidden relationship throwing their lives and careers into disarray.",
+    "genres": ["Biography", "Drama", "Romance", "War"],
+    "director": "D.M.W. Greer",
+    "mainActors": ["Trent Ford", "Tammy Blanchard"]
+  },
+
+  {
+    "title": "Geography Club",
+    "review": {
+      "reviewNumber": "IMDb review: 6.5",
+      "reviewCount": "6.1K"
+    },
+    "releaseDate": 2013,
+    "discription": "At Goodkind High School, a group of students with varying sexual orientations form an after-school club as a discreet way to share their feelings and experiences.",
+    "genres": ["Drama", "Romance"],
+    "director": "Gary Entin",
+    "mainActors": ["Cameron Deane Stewart", "Justin Deeley", "Meaghan Martin"]
+  },
+
+  {
+    "title": "Out in the Dark",
+    "review": {
+      "reviewNumber": "IMDb review: 7.5",
+      "reviewCount": "9K"
+    },
+    "releaseDate": 2012,
+    "discription": "A drama centered on the love affair between two men on opposite sides of the Mid-East conflict: Palestinian student Nimer and Roy, an Israeli lawyer.",
+    "genres": ["Crime", "Drama", "Romance", "Thriller"],
+    "director": "Michael Mayer",
+    "mainActors": ["Nicholas Jacob", "Michael Aloni", "Jameel Khoury"]
+  }
+]
